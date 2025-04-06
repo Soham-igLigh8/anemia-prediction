@@ -5,7 +5,7 @@
 Welcome to the **Anemia Prediction Model**, a state-of-the-art deep learning solution designed to predict anemia with exceptional precision. Developed using PyTorch and trained on a balanced dataset, this model achieves an impressive **98.95% accuracy**, offering a reliable tool for early anemia detection. Curious about how this AI-driven approach revolutionizes healthcare? Explore the details below!
 
 ## 📸 Model Performance
-![Model Performance](https://raw.githubusercontent.com/yourusername/anemia-prediction/main/performance_image.jpeg)
+![Model Performance](https://raw.githubusercontent.com/Soham-igLigh8/anemia-prediction/main/performance_image.jpeg)
 
 The above image showcases the model's evaluation metrics on a test set of 285 samples:
 - **Test Accuracy**: 98.95%
